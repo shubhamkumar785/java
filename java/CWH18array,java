@@ -1,0 +1,29 @@
+public class CWH18array {
+    public static void main(String[] args){
+        // therethree main ways to create array in java
+
+
+        // 1. decleration and then memory allocation
+        // int [] marks;
+        // marks = new int [5];
+        // marks[0] = 100;
+        // marks[1] = 80;
+        // marks[2] = 70;
+        // marks[3] = 40;
+        // marks[4] = 20;
+
+
+
+        // 2.decleration and memory allocation
+        // int [] marks = new int[5];
+        //  marks[0] = 100;
+        //  marks[1] = 80;
+        //  marks[2] = 70;
+        //  marks[3] = 40;
+        //  marks[4] = 20;
+
+
+        // 3.decleration and initilize
+        int [] marks = {100, 80, 70, 40, 20};
+    }
+}
